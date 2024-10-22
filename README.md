@@ -46,7 +46,7 @@ Keep this part short and sweet. Later on in the documentation, give those who ar
 
 `figures/`: Any pre-prepared output should be stored in clearly labeled directories. You should also provide a high-level description of what these files are here. As discussed in class, this should contain both .html and .png versions of your figures.
 
-`src/`: This directory contains the code and other resources used to make the thing that could have been a rock. Usually, we put code, databases, images, and other things that the user does not need to worry themselves with into a directory called `src`.
+`src/`: This directory contains the code and other resources used to make the thing. Usually, we put code, databases, images, and other things that the user does not need to worry themselves with into a directory called `src`.
 
 If there were actual files in here, I would provide a high-level description of what the code in each file is for. I would also be sure that the code itself is well-documented (i.e., all functions are type-hinted, contain docstrings, and have ample comments throughout the code). The only time I would deviate from this rule is _if I did not care about my readers being able to understand my code._
 
@@ -60,6 +60,6 @@ As your professor, I would like you to explain, at a minimum:
 
 - How does your random data generation work? Translate your code into words, but do so in such a way that the competent reader would be able to confirm that your code does indeed match the words used to describe it.
 
-- Once the data is generated, it is scored... how? Explain to a newcomer. Explain the algorithm in words, so that someone with a CS background might be able to do a cursory complexity analysis (e.g. "Oh that sounds like O($n^2$) to me!). Also, are any assumptions being made? Is there anything displyed in the results that was assumed rather than computed, due to some symmetry?
+- Once the data is generated, it is scored... how? Explain to a newcomer. Explain the algorithm in words, so that someone with a CS background might be able to do a cursory complexity analysis (e.g. "Oh that sounds like O($n^2$) to me!"). Also, are any assumptions being made? Is there anything displyed in the results that was assumed rather than computed, due to some symmetry?
 
 - Explain how the results are presented. Even if the figures are clearly labeled, give a brief reiteration of what we are looking at. Is the diagonal grayed out? That deserves at least a sentence! Etc.
