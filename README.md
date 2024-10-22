@@ -46,7 +46,7 @@ Keep this part short and sweet. Later on in the documentation, give those who ar
 
 `figures/`: Any pre-prepared output should be stored in clearly labeled directories. You should also provide a high-level description of what these files are here. As discussed in class, this should contain both .html and .png versions of your figures.
 
-`src/`: This directory contains the code and other resources used to make the thing that could have been a rock. Usually, we put code, images, and other things that the user does not need to worry themselves with into a directory called `src`.
+`src/`: This directory contains the code and other resources used to make the thing that could have been a rock. Usually, we put code, databases, images, and other things that the user does not need to worry themselves with into a directory called `src`.
 
 If there were actual files in here, I would provide a high-level description of what the code in each file is for. I would also be sure that the code itself is well-documented (i.e., all functions are type-hinted, contain docstrings, and have ample comments throughout the code). The only time I would deviate from this rule is _if I did not care about my readers being able to understand my code._
 
