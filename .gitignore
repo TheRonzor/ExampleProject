@@ -1,0 +1,16 @@
+# These are the things Ron includes in every .gitignore
+
+# Python cache, temporary files, and compiled bytecode.
+# If needed, they will be created on the user's end.
+# They are just clutter for the repo.
+__pycache__/
+.ipynb_checkpoints
+*.pyc
+
+# The prefix I use for stuff I use for my own personal testing 
+# and nothing anyone else needs to be confused by
+z_*
+
+# A file that Macs include for something... I think it's supposed to be some sort of index.
+# Either way, nothing with this name should be in my repositories.
+.DS_Store
