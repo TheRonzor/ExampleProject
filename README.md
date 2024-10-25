@@ -16,6 +16,7 @@ Other useful links include:
 
 - [Guido van Rossum on Lex Fridman's podcast](https://www.youtube.com/watch?v=-DVyjdw4t9I)
 
+- A [link](hello.md) to another markdown file
 
 For the current intended audience (working on Project Penney) you would probably want to include links to the wikipedia, the Humble-Nishiyama paper, and anything else you have found that would be relevant background to a newcomer (there's at least one wonderful youtube video about it that I will let you search for yourself.)
 
